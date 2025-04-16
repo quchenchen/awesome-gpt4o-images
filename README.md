@@ -891,6 +891,10 @@ Colors: warm highlights, profession-matching hues.
 
 **需上传参考图片：** 需要上传两张图片：一张包含期望体素风格图标的参考图（如推文作者提供），以及一张要转换的原始图标。
 
+
+## 案例49 基于以上各位作者创作思路重新整理的提示词指南
+[原文链接1](https://mp.weixin.qq.com/s/ad54fqTcm6S2m9QGfOP87Q)
+
 ---
 
 ## 🙏 致谢
